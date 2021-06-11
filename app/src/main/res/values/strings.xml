@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PocketBook</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="pocketbook">PocketBook</string>
+    <string name="you_are_logged_in">You are logged in</string>
+    <string name="log_out">Log out</string>
+    <string name="image_captured">Image Captured</string>
+    <string name="detect_text">Detect Text</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="display_text_from_image">Display Text from image</string>
+    <string name="ImageCaptured">TODO</string>
+    <string name="ocr_image_view">Ocr Image view</string>
+    <string name="receipt_management">Receipt Management</string>
+    <string name="ocr_scanner">OCR Scanner</string>
+    <string name="receipt_imageview">Receipt ImageView</string>
+    <string name="imagebackbtn">imageBackBtn</string>
+    <string name="pdf_image">Pdf Image</string>
+    <string name="select_file_from_storage">Select File From Storage</string>
+    <string name="upload">Upload</string>
+    <string name="retrieve_pdf_file">Retrieve PDF File</string>
+</resources>
