@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "496119265636",
+    "project_id": "pocketbook-43970",
+    "storage_bucket": "pocketbook-43970.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496119265636:android:043e40af388417075aa271",
+        "android_client_info": {
+          "package_name": "com.example.application.pocketbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496119265636-04f6mjggl8vhmao1o9a122gbhaui7r7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB-kn0AkxeMgeOWiZEOYgauw4tRb-P_Ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496119265636-04f6mjggl8vhmao1o9a122gbhaui7r7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
